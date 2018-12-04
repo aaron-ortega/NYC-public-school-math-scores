@@ -1,8 +1,11 @@
 # NYC-public-school-math-scores
 
-The dashboard and sheets can be found [here](https://incidentreports.uchicago.edu/).
-
+The interactive tableau dashboard and sheets are [here](https://public.tableau.com/profile/aaron.ortega#!/).<br>
+The source of the data can be found [here](https://infohub.nyced.org/reports-and-policies/citywide-information-and-data/test-results).<br>
+The map file in geojson format can be found [here](https://data.cityofnewyork.us/Education/School-Districts/r8nu-ymqj).
 ## Summary
+The data provided information allowing for a visual inspection and measure for academic performances across 32 districs and 1117 schools for the city of New York. 
+
 
 
 ## Contents
@@ -12,3 +15,12 @@ The dashboard and sheets can be found [here](https://incidentreports.uchicago.ed
 4. Conclusion
 
 ### Introduction
+Every year the city of New York performs assessment examinations in Math and English Language Arts (ELA) for grade levels 3-8. In 2013, the city started using the Common Core Learning Standards. The Common Core (CC) is used to measure the level of proficiency a student has in Math and ELA. The raw score is scaled and mapped into levels and evaluated
+- Level 1: Below proficent
+- Level 2: Patially proficent
+- Level 3: Proficent
+- Level 4: Excels
+
+### Data Description
+The data consist of 
+The data provides a top down rundown on how each district and school did individually and collectively. the following information:  The test also allows for the extraction of additional student info (disability status, English Language Learner (ELL) status, race/ethnicity, and gender).
