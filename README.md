@@ -1,9 +1,10 @@
-# NYC-public-school-math-scores
-
-The interactive tableau dashboard and sheets are [here](https://public.tableau.com/profile/aaron.ortega#!/).<br>
-The source of the data can be found [here](https://infohub.nyced.org/reports-and-policies/citywide-information-and-data/test-results).<br>
-The map file in geojson format can be found [here](https://data.cityofnewyork.us/Education/School-Districts/r8nu-ymqj).
-## Summary
+# NYC-public-school-math-scores 
+### Note: work in progress and updating daily
+Data Sources:
+- [dashboard](https://public.tableau.com/profile/aaron.ortega#!/)
+- [education data](https://infohub.nyced.org/reports-and-policies/citywide-information-and-data/test-results)
+- [NYC distric map](https://data.cityofnewyork.us/Education/School-Districts/r8nu-ymqj)
+## Summary Results
 The data provided information allowing for a visual inspection and measure for academic performances across 32 districs and 1117 schools for the city of New York. 
 
 
